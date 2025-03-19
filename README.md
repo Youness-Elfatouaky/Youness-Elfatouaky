@@ -24,5 +24,5 @@
 
 ## 🧰 &nbsp;Languages and Tools
  
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,vue,nuxt,react,redux,flutter,dart,mongodb,mysql,postgresql,nginx,docker,git,github,vscode,npm,html,css,javascript,tailwind,bootstrap,php,linux,bash,figma,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,vue,nuxt,react,redux,vite,flutter,dart,mongodb,mysql,postgresql,nginx,docker,git,github,vscode,npm,html,css,javascript,tailwind,bootstrap,php,linux,bash,figma,wordpress)](https://skillicons.dev)
 
