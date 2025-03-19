@@ -17,11 +17,12 @@
 
 ## 👇 Connect with me:
 
-##[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ghalmi_mohcine)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohcine-ghalmi-759a12209/)
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/youness-elfatouaky/)
 
 
 ## 🧰 &nbsp;Languages and Tools
  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,wordpress,visualstudio,linux,php,mysql,eclipse,bootstrap,java,jquery,powershell,pr,ps,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,vue,nuxt,react,redux,flutter,dart,mongodb,mysql,postgresql,nginx,docker,git,github,vscode,npm,html,css,javascript,tailwind,bootstrap,php,linux,bash,figma,wordpress)](https://skillicons.dev)
+
